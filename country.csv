@@ -1,10 +1,10 @@
 countryID,countryIso2,countryName
 10,us,United States
-10101,pr,Puerto Rico
-10102,gu,Guam
-10103,vi,U.S. Virgin Islands
-10104,as,American Samoa
-10105,mp,Northern Mariana Islands
+10501,pr,Puerto Rico
+10502,gu,Guam
+10503,vi,U.S. Virgin Islands
+10504,as,American Samoa
+10505,mp,Northern Mariana Islands
 11,ca,Canada
 1242,bs,Bahamas
 1246,bb,Barbados
