@@ -1,0 +1,66 @@
+areaCodeChild,areaCodeParent,areaName
+10,10,United States
+101,10,Northeast
+1011,101,New England
+10111,1011,Massachusetts
+10112,1011,Connecticut
+10113,1011,New Hampshire
+10114,1011,Maine
+10115,1011,Rhode Island
+10116,1011,Vermont
+1012,101,Middle Atlantic
+10121,1012,New York
+10122,1012,Pennsylvania
+10123,1012,New Jersey
+102,10,South
+1021,102,South Atlantic
+10211,1021,Florida
+10212,1021,Georgia
+10213,1021,North Carolina
+10214,1021,Virginia
+10215,1021,Maryland
+10216,1021,South Carolina
+10217,1021,West Virginia
+10218,1021,Delaware
+10219,1021,District of Columbia
+1022,102,East South Central
+10221,1022,Tennessee
+10222,1022,Alabama
+10223,1022,Kentucky
+10224,1022,Mississippi
+1023,102,West South Central
+10231,1023,Texas
+10232,1023,Louisiana
+10233,1023,Oklahoma
+10234,1023,Arkansas
+103,10,Midwest
+1031,103,East North Central
+10311,1031,Illinois
+10312,1031,Ohio
+10313,1031,Michigan
+10314,1031,Indiana
+10315,1031,Wisconsin
+1032,103,West North Central
+10321,1032,Missouri
+10322,1032,Minnesota
+10323,1032,Iowa
+10324,1032,Kansas
+10325,1032,Nebraska
+10326,1032,South Dakota
+10327,1032,North Dakota
+104,10,West
+1041,104,Mountain
+10411,1041,Arizona
+10412,1041,Colorado
+10413,1041,Utah
+10414,1041,Nevada
+10415,1041,New Mexico
+10416,1041,Idaho
+10417,1041,Montana
+10418,1041,Wyoming
+1042,104,Pacific
+10421,1042,California
+10422,1042,Washington
+10423,1042,Oregon
+10424,1042,Hawaii
+10425,1042,Alaska
