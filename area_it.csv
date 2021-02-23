@@ -1,7 +1,6 @@
 areaCode,areaName,areaDefinition
 386,Slovenia,Slovenia
 38601,Slovenia orientale,Slovenia orientale
-38602,Slovenia occidentale,Slovenia occidentale
 386011,Murania,Murania (regione statistica della Slovenia orientale)
 386012,Oltredrava,Oltredrava (regione statistica della Slovenia orientale)
 386013,Carinzia,Carinzia (regione statistica della Slovenia orientale)
@@ -10,6 +9,7 @@ areaCode,areaName,areaDefinition
 386016,Oltresava inferiore,Oltresava inferiore (regione statistica della Slovenia orientale)
 386017,Slovenia Sudorientale,Slovenia Sudorientale (regione statistica della Slovenia orientale)
 386018,Carniola Interna-Carso,Carniola Interna-Carso (regione statistica della Slovenia orientale)
+38602,Slovenia occidentale,Slovenia occidentale
 386021,Slovenia Centrale,Slovenia Centrale (regione statistica della Slovenia occidentale)
 386022,Alta Carniola,Alta Carniola (regione statistica della Slovenia occidentale)
 386023,Goriziano,Goriziano (regione statistica della Slovenia occidentale)
