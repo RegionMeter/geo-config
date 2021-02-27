@@ -1,0 +1,107 @@
+areaCode,areaName,targetCode
+391101,Torino,TO
+391102,Cuneo,CN
+391103,Alessandria,AL
+391104,Novara,NO
+391105,Asti,AT
+391106,Biella,BI
+391107,Vercelli,VC
+391108,Verbano-Cusio-Ossola,VB
+391301,Genova,GE
+391302,Savona,SV
+391303,La Spezia,SP
+391304,Imperia,IM
+391401,Milano,MI
+391402,Brescia,BS
+391403,Bergamo,BG
+391404,Varese,VA
+391405,Monza e Brianza,MB
+391406,Como,CO
+391407,Pavia,PV
+391408,Mantova,MN
+391409,Cremona,CR
+391410,Lecco,LC
+391411,Lodi,LO
+391412,Sondrio,SO
+3921,Trentino,TN
+3922,Alto Adige,BZ
+392301,Venezia,VE
+392302,Padova,PD
+392303,Verona,VR
+392304,Treviso,TV
+392305,Vicenza,VI
+392306,Rovigo,RO
+392307,Belluno,BL
+392401,Udine,UD
+392402,Pordenone,PN
+392403,Trieste,TS
+392404,Gorizia,GO
+392501,Bologna,BO
+392502,Modena,MO
+392503,Reggio Emilia,RE
+392504,Parma,PR
+392505,Forlì-Cesena,FC
+392506,Ravenna,RA
+392507,Ferrara,FE
+392508,Rimini,RN
+392509,Piacenza,PC
+393101,Firenze,FI
+393102,Pisa,PI
+393103,Lucca,LU
+393104,Arezzo,AR
+393105,Livorno,LI
+393106,Pistoia,PT
+393107,Siena,SI
+393108,Prato,PO
+393109,Grosseto,GR
+393110,Massa-Carrara,MS
+393201,Perugia,PG
+393202,Terni,TR
+393301,Ancona,AN
+393302,Pesaro e Urbino,PU
+393303,Macerata,MC
+393304,Ascoli Piceno,AP
+393305,Fermo,FM
+393401,Roma,RM
+393402,Latina,LT
+393403,Frosinone,FR
+393404,Viterbo,VT
+393405,Rieti,RI
+394101,L'Aquila,AQ
+394102,Chieti,CH
+394103,Pescara,PE
+394104,Teramo,TE
+394201,Campobasso,CB
+394202,Isernia,IS
+394301,Napoli,NA
+394302,Salerno,SA
+394303,Caserta,CE
+394304,Avellino,AV
+394305,Benevento,BN
+394401,Bari,BA
+394402,Lecce,LE
+394403,Foggia,FG
+394404,Taranto,TA
+394405,Brindisi,BR
+394406,Barletta-Andria-Trani,BT
+394501,Potenza,PZ
+394502,Matera,MT
+394601,Catanzaro,CZ
+394602,Cosenza,CS
+394603,Reggio Calabria,RC
+394604,Crotone,KR
+394605,Vibo Valentia,VV
+395101,Palermo,PA
+395102,Catania,CT
+395103,Messina,ME
+395104,Agrigento,AG
+395105,Trapani,TP
+395106,Siracusa,SR
+395107,Ragusa,RG
+395108,Caltanissetta,CL
+395109,Enna,EN
+395201,Cagliari,CA
+395202,Sassari,SS
+395203,Sud Sardegna,SU
+395204,Nuoro,NU
+395205,Oristano,OR
