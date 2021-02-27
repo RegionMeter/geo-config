@@ -1,86 +1,149 @@
 areaCode,areaName,areaDefinition
-10,United States,United States of America
-101,Northeast,The Northeast (one of the four US census main regions)
-1011,New England,New England (one of the nine US geographic subdivisions)
-10111,Massachusetts,Massachusetts (US state)
-10112,Connecticut,Connecticut (US state)
-10113,New Hampshire,New Hampshire (US state)
-10114,Maine,Maine (US state)
-10115,Rhode Island,Rhode Island (US state)
-10116,Vermont,Vermont (US state)
-1012,Mid-Atlantic,Middle Atlantic states (one of the nine US geographic subdivisions)
-10121,New York,New York (US state)
-10122,Pennsylvania,Pennsylvania (US state)
-10123,New Jersey,New Jersey (US state)
-102,South,The South (one of the four US census main regions)
-1021,South Atlantic,South Atlantic states (one of the nine US geographic subdivisions)
-10211,Florida,Florida (US state)
-10212,Georgia,Georgia (US state)
-10213,North Carolina,North Carolina (US state)
-10214,Virginia,Virginia (US state)
-10215,Maryland,Maryland (US state)
-10216,South Carolina,South Carolina (US state)
-10217,West Virginia,West Virginia (US state)
-10218,Delaware,Delaware (US state)
-10219,District of Columbia,District of Columbia (US state)
-1022,East South Central,East South Central states (one of the nine US geographic subdivisions)
-10221,Tennessee,Tennessee (US state)
-10222,Alabama,Alabama (US state)
-10223,Kentucky,Kentucky (US state)
-10224,Mississippi,Mississippi (US state)
-1023,West South Central,West South Central states (one of the nine US geographic subdivisions)
-10231,Texas,Texas (US state)
-10232,Louisiana,Louisiana (US state)
-10233,Oklahoma,Oklahoma (US state)
-10234,Arkansas,Arkansas (US state)
-103,Midwest,The Midwest (one of the four US census main regions)
-1031,East North Central,East North Central states (one of the nine US geographic subdivisions)
-10311,Illinois,Illinois (US state)
-10312,Ohio,Ohio (US state)
-10313,Michigan,Michigan (US state)
-10314,Indiana,Indiana (US state)
-10315,Wisconsin,Wisconsin (US state)
-1032,West North Central,West North Central (one of the nine US geographic subdivisions)
-10321,Missouri,Missouri (US state)
-10322,Minnesota,Minnesota (US state)
-10323,Iowa,Iowa (US state)
-10324,Kansas,Kansas (US state)
-10325,Nebraska,Nebraska (US state)
-10326,South Dakota,South Dakota (US state)
-10327,North Dakota,North Dakota (US state)
-104,West,The West (one of the four US census main regions)
-1041,Mountain,Mountain West states (one of the nine US geographic subdivisions)
-10411,Arizona,Arizona (US state)
-10412,Colorado,Colorado (US state)
-10413,Utah,Utah (US state)
-10414,Nevada,Nevada (US state)
-10415,New Mexico,New Mexico (US state)
-10416,Idaho,Idaho (US state)
-10417,Montana,Montana (US state)
-10418,Wyoming,Wyoming (US state)
-1042,Pacific,Pacific states or West Coast states (one of the nine US geographic subdivisions)
-10421,California,California (US state)
-10422,Washington,Washington (US state)
-10423,Oregon,Oregon (US state)
-10424,Hawaii,Hawaii (US state)
-10425,Alaska,Alaska (US state)
-10501,Puerto Rico,Puerto Rico (unincorporated US territory)
-10502,Guam,Guam (unincorporated US territory)
-10503,U.S. Virgin Islands,U.S. Virgin Islands (unincorporated US territory)
-10504,American Samoa,American Samoa (unincorporated US territory)
-10505,Northern Mariana Islands,Northern Mariana Islands (unincorporated US territory)
+378,San Marino,Repubblica di San Marino
 386,Slovenia,Slovenia
-38601,Eastern Slovenia,Eastern Slovenia (first of two slovenian cohesion regions)
-386011,Mura,Mura (statistical region from eastern Slovenia)
-386012,Drava,Drava (statistical region from eastern Slovenia)
-386013,Carinthia,Carinthia (statistical region from eastern Slovenia)
-386014,Savinja,Savinja (statistical region from eastern Slovenia)
-386015,Central Sava,Central Sava (statistical region from eastern Slovenia)
-386016,Lower Sava,Lower Sava (statistical region from eastern Slovenia)
-386017,Southeast Slovenia,Southeast Slovenia (statistical region from eastern Slovenia)
-386018,Littoral-Inner Carniola,Littoral-Inner Carniola (statistical region from eastern Slovenia)
-38602,Western Slovenia ,Western Slovenia (second of two slovenian cohesion regions)
-386021,Central Slovenia,Central Slovenia (statistical region from western Slovenia)
-386022,Upper Carniola,Upper Carniola (statistical region from western Slovenia)
-386023,Gorizia,Gorizia (statistical region from western Slovenia)
-386024,Coastal-Karst,Coastal-Karst (statistical region from western Slovenia)
+38601,Slovenia orientale,Slovenia orientale
+386011,Murania,Murania (regione statistica della Slovenia orientale)
+386012,Oltredrava,Oltredrava (regione statistica della Slovenia orientale)
+386013,Carinzia,Carinzia (regione statistica della Slovenia orientale)
+386014,Savinia,Savinia (regione statistica della Slovenia orientale)
+386015,Sava Centrale,Sava Centrale (regione statistica della Slovenia orientale)
+386016,Oltresava inferiore,Oltresava inferiore (regione statistica della Slovenia orientale)
+386017,Slovenia Sudorientale,Slovenia Sudorientale (regione statistica della Slovenia orientale)
+386018,Carniola Interna-Carso,Carniola Interna-Carso (regione statistica della Slovenia orientale)
+38602,Slovenia occidentale,Slovenia occidentale
+386021,Slovenia Centrale,Slovenia Centrale (regione statistica della Slovenia occidentale)
+386022,Alta Carniola,Alta Carniola (regione statistica della Slovenia occidentale)
+386023,Goriziano,Goriziano (regione statistica della Slovenia occidentale)
+386024,Litorale-Carso,Litorale-Carso (regione statistica della Slovenia occidentale)
+39,Italia,Italia
+391,Nord-ovest,Nord-ovest (Una delle cinque circoscrizioni elettorali per il Parlamento Europeo)
+3911,Piemonte,Piemonte (Regione italiana a statuto ordinario)
+391101,Torino,Provincia di Torino
+391102,Cuneo,Provincia di Cuneo
+391103,Alessandria,Provincia di Alessandria
+391104,Novara,Provincia di Novara
+391105,Asti,Provincia di Asti
+391106,Biella,Provincia di Biella
+391107,Vercelli,Provincia di Vercelli
+391108,Verbano-Cusio-Ossola,Provincia di Verbano-Cusio-Ossola
+3912,Valle d'Aosta,Valle d'Aosta (Regione italiana a statuto speciale)
+3913,Liguria,Liguria (Regione italiana a statuto ordinario)
+391301,Genova,Provincia di Genova
+391302,Savona,Provincia di Savona
+391303,La Spezia,Provincia di La Spezia
+391304,Imperia,Provincia di Imperia
+3914,Lombardia,Lombardia (Regione italiana a statuto ordinario)
+391401,Milano,Provincia di Milano
+391402,Brescia,Provincia di Brescia
+391403,Bergamo,Provincia di Bergamo
+391404,Varese,Provincia di Varese
+391405,Monza e Brianza,Provincia di Monza e Brianza
+391406,Como,Provincia di Como
+391407,Pavia,Provincia di Pavia
+391408,Mantova,Provincia di Mantova
+391409,Cremona,Provincia di Cremona
+391410,Lecco,Provincia di Lecco
+391411,Lodi,Provincia di Lodi
+391412,Sondrio,Provincia di Sondrio
+392,Nord-est,Nord-est (Una delle cinque circoscrizioni elettorali per il Parlamento Europeo)
+3920,Trentino-Alto Adige,Trentino-Alto Adige (Regione italiana a statuto speciale)
+3921,Trentino,Provincia Autonoma di Trento
+3922,Alto Adige,Provincia Autonoma di Bolzano
+3923,Veneto,Veneto (Regione italiana a statuto ordinario)
+392301,Venezia,Provincia di Venezia
+392302,Padova,Provincia di Padova
+392303,Verona,Provincia di Verona
+392304,Treviso,Provincia di Treviso
+392305,Vicenza,Provincia di Vicenza
+392306,Rovigo,Provincia di Rovigo
+392307,Belluno,Provincia di Belluno
+3924,Friuli Venezia Giulia,Friuli Venezia Giulia (Regione italiana a statuto speciale)
+392401,Udine,Provincia di Udine
+392402,Pordenone,Provincia di Pordenone
+392403,Trieste,Provincia di Trieste
+392404,Gorizia,Provincia di Gorizia
+3925,Emilia-Romagna,Emilia-Romagna (Regione italiana a statuto ordinario)
+392501,Bologna,Provincia di Bologna
+392502,Modena,Provincia di Modena
+392503,Reggio Emilia,Provincia di Reggio Emilia
+392504,Parma,Provincia di Parma
+392505,ForlÃ¬-Cesena,Provincia di ForlÃ¬-Cesena
+392506,Ravenna,Provincia di Ravenna
+392507,Ferrara,Provincia di Ferrara
+392508,Rimini,Provincia di Rimini
+392509,Piacenza,Provincia di Piacenza
+393,Centro,Centro (Una delle cinque circoscrizioni elettorali per il Parlamento Europeo)
+3931,Toscana,Toscana (Regione italiana a statuto ordinario)
+393101,Firenze,Provincia di Firenze
+393102,Pisa,Provincia di Pisa
+393103,Lucca,Provincia di Lucca
+393104,Arezzo,Provincia di Arezzo
+393105,Livorno,Provincia di Livorno
+393106,Pistoia,Provincia di Pistoia
+393107,Siena,Provincia di Siena
+393108,Prato,Provincia di Prato
+393109,Grosseto,Provincia di Grosseto
+393110,Massa-Carrara,Provincia di Massa-Carrara
+3932,Umbria,Umbria (Regione italiana a statuto ordinario)
+393201,Perugia,Provincia di Perugia
+393202,Terni,Provincia di Terni
+3933,Marche,Marche (Regione italiana a statuto ordinario)
+393301,Ancona,Provincia di Ancona
+393302,Pesaro e Urbino,Provincia di Pesaro e Urbino
+393303,Macerata,Provincia di Macerata
+393304,Ascoli Piceno,Provincia di Ascoli Piceno
+393305,Fermo,Provincia di Fermo
+3934,Lazio,Lazio (Regione italiana a statuto ordinario)
+393401,Roma,Provincia di Roma
+393402,Latina,Provincia di Latina
+393403,Frosinone,Provincia di Frosinone
+393404,Viterbo,Provincia di Viterbo
+393405,Rieti,Provincia di Rieti
+394,Sud,Sud (Una delle cinque circoscrizioni elettorali per il Parlamento Europeo)
+3941,Abruzzo,Abruzzo (Regione italiana a statuto ordinario)
+394101,L'Aquila,Provincia di L'Aquila
+394102,Chieti,Provincia di Chieti
+394103,Pescara,Provincia di Pescara
+394104,Teramo,Provincia di Teramo
+3942,Molise,Molise (Regione italiana a statuto ordinario)
+394201,Campobasso,Provincia di Campobasso
+394202,Isernia,Provincia di Isernia
+3943,Campania,Campania (Regione italiana a statuto ordinario)
+394301,Napoli,Provincia di Napoli
+394302,Salerno,Provincia di Salerno
+394303,Caserta,Provincia di Caserta
+394304,Avellino,Provincia di Avellino
+394305,Benevento,Provincia di Benevento
+3944,Puglia,Puglia (Regione italiana a statuto ordinario)
+394401,Bari,Provincia di Bari
+394402,Lecce,Provincia di Lecce
+394403,Foggia,Provincia di Foggia
+394404,Taranto,Provincia di Taranto
+394405,Brindisi,Provincia di Brindisi
+394406,Barletta-Andria-Trani,Provincia di Barletta-Andria-Trani
+3945,Basilicata,Basilicata (Regione italiana a statuto ordinario)
+394501,Potenza,Provincia di Potenza
+394502,Matera,Provincia di Matera
+3946,Calabria,Calabria (Regione italiana a statuto ordinario)
+394601,Catanzaro,Provincia di Catanzaro
+394602,Cosenza,Provincia di Cosenza
+394603,Reggio Calabria,Provincia di Reggio Calabria
+394604,Crotone,Provincia di Crotone
+394605,Vibo Valentia,Provincia di Vibo Valentia
+395,Isole,Isole (Una delle cinque circoscrizioni elettorali per il Parlamento Europeo)
+3951,Sicilia,Sicilia (Regione italiana a statuto speciale)
+395101,Palermo,Provincia di Palermo
+395102,Catania,Provincia di Catania
+395103,Messina,Provincia di Messina
+395104,Agrigento,Provincia di Agrigento
+395105,Trapani,Provincia di Trapani
+395106,Siracusa,Provincia di Siracusa
+395107,Ragusa,Provincia di Ragusa
+395108,Caltanissetta,Provincia di Caltanissetta
+395109,Enna,Provincia di Enna
+3952,Sardegna,Sardegna (Regione italiana a statuto speciale)
+395201,Cagliari,Provincia di Cagliari
+395202,Sassari,Provincia di Sassari
+395203,Sud Sardegna,Provincia del Sud Sardegna
+395204,Nuoro,Provincia di Nuoro
+395205,Oristano,Provincia di Oristano

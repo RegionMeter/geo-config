@@ -1,6 +1,7 @@
-areaCode,areaName,isActive
+﻿areaCode,areaName,isActive
 10,United States,1
 33,France,0
+378,San Marino,1
 386,Slovenia,1
 39,Italy,1
 41,Switzerland,0
