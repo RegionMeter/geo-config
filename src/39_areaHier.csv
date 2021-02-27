@@ -1,0 +1,133 @@
+areaCodeChild,areaCodeParent,areaName
+39,39,Italia
+391,39,Nord-ovest
+3911,391,Piemonte
+391101,3911,Torino
+391102,3911,Cuneo
+391103,3911,Alessandria
+391104,3911,Novara
+391105,3911,Asti
+391106,3911,Biella
+391107,3911,Vercelli
+391108,3911,Verbano-Cusio-Ossola
+3912,391,Valle d'Aosta
+3913,391,Liguria
+391301,3913,Genova
+391302,3913,Savona
+391303,3913,La Spezia
+391304,3913,Imperia
+3914,391,Lombardia
+391401,3914,Milano
+391402,3914,Brescia
+391403,3914,Bergamo
+391404,3914,Varese
+391405,3914,Monza e Brianza
+391406,3914,Como
+391407,3914,Pavia
+391408,3914,Mantova
+391409,3914,Cremona
+391410,3914,Lecco
+391411,3914,Lodi
+391412,3914,Sondrio
+392,39,Nord-est
+3920,392,Trentino-Alto Adige
+3921,3920,Trentino
+3922,3920,Alto Adige
+3923,392,Veneto
+392301,3923,Venezia
+392302,3923,Padova
+392303,3923,Verona
+392304,3923,Treviso
+392305,3923,Vicenza
+392306,3923,Rovigo
+392307,3923,Belluno
+3924,392,Friuli Venezia Giulia
+392401,3924,Udine
+392402,3924,Pordenone
+392403,3924,Trieste
+392404,3924,Gorizia
+3925,392,Emilia-Romagna
+392501,3925,Bologna
+392502,3925,Modena
+392503,3925,Reggio Emilia
+392504,3925,Parma
+392505,3925,Forlì-Cesena
+392506,3925,Ravenna
+392507,3925,Ferrara
+392508,3925,Rimini
+392509,3925,Piacenza
+393,39,Centro
+3931,393,Toscana
+393101,3931,Firenze
+393102,3931,Pisa
+393103,3931,Lucca
+393104,3931,Arezzo
+393105,3931,Livorno
+393106,3931,Pistoia
+393107,3931,Siena
+393108,3931,Prato
+393109,3931,Grosseto
+393110,3931,Massa-Carrara
+3932,393,Umbria
+393201,3932,Perugia
+393202,3932,Terni
+3933,393,Marche
+393301,3932,Ancona
+393302,3932,Pesaro e Urbino
+393303,3932,Macerata
+393304,3932,Ascoli Piceno
+393305,3932,Fermo
+3934,393,Lazio
+393401,3934,Roma
+393402,3934,Latina
+393403,3934,Frosinone
+393404,3934,Viterbo
+393405,3934,Rieti
+394,39,Sud
+3941,394,Abruzzo
+394101,3941,L'Aquila
+394102,3941,Chieti
+394103,3941,Pescara
+394104,3941,Teramo
+3942,394,Molise
+394201,3942,Campobasso
+394202,3942,Isernia
+3943,394,Campania
+394301,3943,Napoli
+394302,3943,Salerno
+394303,3943,Caserta
+394304,3943,Avellino
+394305,3943,Benevento
+3944,394,Puglia
+394401,3944,Bari
+394402,3944,Lecce
+394403,3944,Foggia
+394404,3944,Taranto
+394405,3944,Brindisi
+394406,3944,Barletta-Andria-Trani
+3945,394,Basilicata
+394501,3945,Potenza
+394502,3945,Matera
+3946,394,Calabria
+394601,3946,Catanzaro
+394602,3946,Cosenza
+394603,3946,Reggio Calabria
+394604,3946,Crotone
+394605,3946,Vibo Valentia
+395,39,Isole
+3951,395,Sicilia
+395101,3951,Palermo
+395102,3951,Catania
+395103,3951,Messina
+395104,3951,Agrigento
+395105,3951,Trapani
+395106,3951,Siracusa
+395107,3951,Ragusa
+395108,3951,Caltanissetta
+395109,3951,Enna
+3952,395,Sardegna
+395201,3952,Cagliari
+395202,3952,Sassari
+395203,3952,Sud Sardegna
+395204,3952,Nuoro
+395205,3952,Oristano
