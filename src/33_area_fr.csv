@@ -1,0 +1,120 @@
+﻿areaCode,areaName,areaDefinition
+33,France,République française
+330,France métropolitaine,Territoire européen de la France
+3301,Île-de-France,Région Île-de-France
+330101,Paris,Ville de Paris
+330102,Seine-et-Marne,Seine-et-Marne (département de la métropole du Grand Paris)
+330103,Yvelines,Département des Yvelines
+330104,Essonne,Essonne (département de la métropole du Grand Paris)
+330105,Hauts-de-Seine,Hauts-de-Seine (département de la métropole du Grand Paris)
+330106,Seine-Saint-Denis,Seine-Saint-Denis (département de la métropole du Grand Paris)
+330107,Val-de-Marne,Val-de-Marne (département de la métropole du Grand Paris)
+330108,Val-d'Oise,Val-d'Oise (département de la métropole du Grand Paris)
+3302,Centre-Val de Loire,Région Centre-Val de Loire
+330201,Cher,Département du Cher
+330202,Eure-et-Loir,Département d'Eure-et-Loir
+330203,Indre,Département de l'Indre
+330204,Indre-et-Loire,Département d'Indre-et-Loire
+330205,Loir-et-Cher,Département du Loir-et-Cher
+330206,Loiret,Département du Loiret
+3303,Bourgogne-Franche-Comté,Région Bourgogne-Franche-Comté
+330301,Côte-d'Or,Département de la Côte-d'Or
+330302,Doubs,Département du Doubs
+330303,Jura,Département du Jura
+330304,Nièvre,Département de la Nièvre
+330305,Haute-Saône,Département de la Haute-Saône
+330306,Saône-et-Loire,Département de la Saône-et-Loire
+330307,Yonne,Département de l'Yonne
+330308,Territoire de Belfort,Département du Territoire de Belfort
+3304,Normandie,Région normande
+330401,Calvados,Département du Calvados
+330402,Eure,Département de l'Eure
+330403,Manche,Département de la Manche
+330404,Orne,Département de l'Orne
+330405,Seine-Maritime,Département Seine-Maritime
+3305,Hauts-de-France,Région Hauts-de-France
+330501,Aisne,Département de l'Aisne
+330502,Nord,Département du Nord
+330503,Oise,Département de l'Oise
+330504,Pas-de-Calais,Département du Pas-de-Calais
+330505,Somme,Département de la Somme
+3306,Grand Est,Région Grand Est
+330601,Ardennes,Département des Ardennes
+330602,Aube,Département de l'Aube
+330603,Marne,Département de la Marne
+330604,Haute-Marne,Département de la Haute-Marne
+330605,Meurthe-et-Moselle,Département de Meurthe-et-Moselle
+330606,Meuse,Département de la Meuse
+330607,Moselle,Département de la Moselle
+330608,Bas-Rhin,Département du Bas-Rhin
+330609,Haut-Rhin,Département du Haut-Rhin
+330610,Vosges,Département des Vosges
+3307,Pays de la Loire,Région des Pays de la Loire
+330701,Loire-Atlantique,Département de la Loire-Atlantique
+330702,Maine-et-Loire,Département du Maine-et-Loire
+330703,Mayenne,Département de Mayenne
+330704,Sarthe,Département de la Sarthe
+3308,Bretagne,Région Bretagne
+330801,Côtes-d'Armor,Département des Côtes-d'Armor
+330802,Finistère,Département du Finistère
+330803,Ille-et-Vilaine,Département d'Ille-et-Vilaine
+330804,Morbihan,Département du Morbihan
+3309,Nouvelle-Aquitaine,Région Nouvelle-Aquitaine
+330901,Charente,Département de la Charente
+330902,Charente-Maritime,Département de la Charente-Maritime
+330903,Corrèze,Département de la Corrèze
+330904,Creuse,Département de la Creuse
+330905,Dordogne,Département de la Dordogne
+330906,Gironde,Département de la Gironde
+330907,Landes,Département des Landes
+330908,Lot-et-Garonne,Département du Lot-et-Garonne
+330909,Pyrénées-Atlantiques,Département des Pyrénées-Atlantiques
+330910,Deux-Sèvres,Département des Deux-Sèvres
+330911,Vienne,Département de la Vienne
+330912,Haute-Vienne,Département de la Haute-Vienne
+3310,Occitanie,Région Occitanie
+331001,Ariège,Département de l'Ariège
+331002,Aude,Département de l'Aude
+331003,Aveyron,Département de l'Aveyron
+331004,Gard,Département du Gard
+331005,Haute-Garonne,Département de la Haute-Garonne
+331006,Gers,Département du Gers
+331007,Hérault,Département de l'Hérault
+331008,Lot,Département Lot
+331009,Lozère,Département de la Lozère
+331010,Hautes-Pyrénées,Département des Hautes Pyrénées
+331011,Pyrénées-Orientales,Département des Pyrénées Orientales
+331012,Tarn,Département du Tarn
+331013,Tarn-et-Garonne,Département du Tarn-et-Garonne
+3311,Auvergne-Rhône-Alpes,Région Auvergne-Rhône-Alpes
+331101,Ain,Département de l'Ain
+331102,Allier,Département de l'Allier
+331103,Ardèche,Département de l'Ardèche
+331104,Cantal,Département du Cantal
+331105,Drôme,Département de la Drôme
+331106,Isère,Département de l'Isère
+331107,Loire,Département de la Loire
+331108,Haute-Loire,Département de la Haute Loire
+331109,Puy-de-Dôme,Département du Puy-de-Dôme
+331110,Rhône,Circonscription départementale du Rhône
+3311101,Métropole de Lyon,Métropole de Lyon
+3311102,Rhône (département),Département du Rhône
+331111,Savoie,Département de Savoie
+331112,Haute-Savoie,Département de la Haute-Savoie
+3312,Provence-Alpes-Côte d'Azur,Région Provence-Alpes-Côte d'Azur
+331201,Vendée,Département de la Vendée
+331202,Alpes-de-Haute-Provence,Département des Alpes-de-Haute-Provence
+331203,Hautes-Alpes,Département des Hautes-Alpes
+331204,Alpes-Maritimes,Département des Alpes-Maritimes
+331205,Bouches-du-Rhône,Département des Bouches-du-Rhône
+331206,Var,Département du Var
+331207,Vaucluse,Département du Vaucluse
+3313,Corse,Région Corse
+331301,Corse-du-Sud,Département de la Corse du Sud
+331302,Haute-Corse,Département de Haute-Corse
+332,DROM,Départements et régions d'outre-mer
+3321,Guadeloupe,Département d’Outre-Mer de la Guadeloupe 
+3322,Martinique,Collectivité territoriale de Martinique
+3323,Guyane,Collectivité territoriale de Guyane 
+3324,Réunion,La Réunion 
+3325,Mayotte,Département de Mayotte
