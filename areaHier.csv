@@ -1,371 +1,371 @@
-areaCodeChild,areaCodeParent,areaName
-10,10,United States
-101,10,Northeast
-1011,101,New England
-10111,1011,Massachusetts
-10112,1011,Connecticut
-10113,1011,New Hampshire
-10114,1011,Maine
-10115,1011,Rhode Island
-10116,1011,Vermont
-1012,101,Middle Atlantic
-10121,1012,New York
-10122,1012,Pennsylvania
-10123,1012,New Jersey
-102,10,South
-1021,102,South Atlantic
-10211,1021,Florida
-10212,1021,Georgia
-10213,1021,North Carolina
-10214,1021,Virginia
-10215,1021,Maryland
-10216,1021,South Carolina
-10217,1021,West Virginia
-10218,1021,Delaware
-10219,1021,District of Columbia
-1022,102,East South Central
-10221,1022,Tennessee
-10222,1022,Alabama
-10223,1022,Kentucky
-10224,1022,Mississippi
-1023,102,West South Central
-10231,1023,Texas
-10232,1023,Louisiana
-10233,1023,Oklahoma
-10234,1023,Arkansas
-103,10,Midwest
-1031,103,East North Central
-10311,1031,Illinois
-10312,1031,Ohio
-10313,1031,Michigan
-10314,1031,Indiana
-10315,1031,Wisconsin
-1032,103,West North Central
-10321,1032,Missouri
-10322,1032,Minnesota
-10323,1032,Iowa
-10324,1032,Kansas
-10325,1032,Nebraska
-10326,1032,South Dakota
-10327,1032,North Dakota
-104,10,West
-1041,104,Mountain
-10411,1041,Arizona
-10412,1041,Colorado
-10413,1041,Utah
-10414,1041,Nevada
-10415,1041,New Mexico
-10416,1041,Idaho
-10417,1041,Montana
-10418,1041,Wyoming
-1042,104,Pacific
-10421,1042,California
-10422,1042,Washington
-10423,1042,Oregon
-10424,1042,Hawaii
-10425,1042,Alaska
-33,33,France
-330,33,France métropolitaine
-3301,330,Île-de-France
-330101,3301,Paris
-330102,3301,Seine-et-Marne
-330103,3301,Yvelines
-330104,3301,Essonne
-330105,3301,Hauts-de-Seine
-330106,3301,Seine-Saint-Denis
-330107,3301,Val-de-Marne
-330108,3301,Val-d'Oise
-3302,330,Centre-Val de Loire
-330201,3302,Cher
-330202,3302,Eure-et-Loir
-330203,3302,Indre
-330204,3302,Indre-et-Loire
-330205,3302,Loir-et-Cher
-330206,3302,Loiret
-3303,330,Bourgogne-Franche-Comté
-330301,3303,Côte-d'Or
-330302,3303,Doubs
-330303,3303,Jura (FR)
-330304,3303,Nièvre
-330305,3303,Haute-Saône
-330306,3303,Saône-et-Loire
-330307,3303,Yonne
-330308,3303,Territoire de Belfort
-3304,330,Normandie
-330401,3304,Calvados
-330402,3304,Eure
-330403,3304,Manche
-330404,3304,Orne
-330405,3304,Seine-Maritime
-3305,330,Hauts-de-France
-330501,3305,Aisne
-330502,3305,Nord
-330503,3305,Oise
-330504,3305,Pas-de-Calais
-330505,3305,Somme
-3306,330,Grand Est
-330601,3306,Ardennes
-330602,3306,Aube
-330603,3306,Marne
-330604,3306,Haute-Marne
-330605,3306,Meurthe-et-Moselle
-330606,3306,Meuse
-330607,3306,Moselle
-330608,3306,Bas-Rhin
-330609,3306,Haut-Rhin
-330610,3306,Vosges
-3307,330,Pays de la Loire
-330701,3307,Loire-Atlantique
-330702,3307,Maine-et-Loire
-330703,3307,Mayenne
-330704,3307,Sarthe
-3308,330,Bretagne
-330801,3308,Côtes-d'Armor
-330802,3308,Finistère
-330803,3308,Ille-et-Vilaine
-330804,3308,Morbihan
-3309,330,Nouvelle-Aquitaine
-330901,3309,Charente
-330902,3309,Charente-Maritime
-330903,3309,Corrèze
-330904,3309,Creuse
-330905,3309,Dordogne
-330906,3309,Gironde
-330907,3309,Landes
-330908,3309,Lot-et-Garonne
-330909,3309,Pyrénées-Atlantiques
-330910,3309,Deux-Sèvres
-330911,3309,Vienne
-330912,3309,Haute-Vienne
-3310,330,Occitanie
-331001,3310,Ariège
-331002,3310,Aude
-331003,3310,Aveyron
-331004,3310,Gard
-331005,3310,Haute-Garonne
-331006,3310,Gers
-331007,3310,Hérault
-331008,3310,Lot
-331009,3310,Lozère
-331010,3310,Hautes-Pyrénées
-331011,3310,Pyrénées-Orientales
-331012,3310,Tarn
-331013,3310,Tarn-et-Garonne
-3311,330,Auvergne-Rhône-Alpes
-331101,3311,Ain
-331102,3311,Allier
-331103,3311,Ardèche
-331104,3311,Cantal
-331105,3311,Drôme
-331106,3311,Isère
-331107,3311,Loire
-331108,3311,Haute-Loire
-331109,3311,Puy-de-Dôme
-331110,3311,Rhône
-3311101,331110,Métropole de Lyon
-3311102,331110,Rhône (département)
-331111,3311,Savoie
-331112,3311,Haute-Savoie
-3312,330,Provence-Alpes-Côte d'Azur
-331201,3312,Vendée
-331202,3312,Alpes-de-Haute-Provence
-331203,3312,Hautes-Alpes
-331204,3312,Alpes-Maritimes
-331205,3312,Bouches-du-Rhône
-331206,3312,Var
-331207,3312,Vaucluse
-3313,330,Corse
-331301,3313,Corse-du-Sud
-331302,3313,Haute-Corse
-332,33,DROM
-3321,332,Guadeloupe
-3322,332,Martinique
-3323,332,Guyane
-3324,332,Réunion
-3325,332,Mayotte
-378,378,San Marino
-386,386,Slovenia
-38601,386,Vzhodna Slovenija
-386011,38601,Pomurska
-386012,38601,Podravska
-386013,38601,Koroška
-386014,38601,Savinjska
-386015,38601,Zasavska
-386016,38601,Posavska
-386017,38601,Jugovzhodna Slovenija
-386018,38601,Primorsko-notranjska
-38602,386,Zahodna Slovenija
-386021,38602,Osrednjeslovenska
-386022,38602,Gorenjska
-386023,38602,Goriška
-386024,38602,Obalno-kraška
-39,39,Italy
-391,39,Nord-ovest
-3911,391,Piemonte
-391101,3911,Torino
-391102,3911,Cuneo
-391103,3911,Alessandria
-391104,3911,Novara
-391105,3911,Asti
-391106,3911,Biella
-391107,3911,Vercelli
-391108,3911,Verbano-Cusio-Ossola
-3912,391,Valle d'Aosta
-3913,391,Liguria
-391301,3913,Genova
-391302,3913,Savona
-391303,3913,La Spezia
-391304,3913,Imperia
-3914,391,Lombardia
-391401,3914,Milano
-391402,3914,Brescia
-391403,3914,Bergamo
-391404,3914,Varese
-391405,3914,Monza e Brianza
-391406,3914,Como
-391407,3914,Pavia
-391408,3914,Mantova
-391409,3914,Cremona
-391410,3914,Lecco
-391411,3914,Lodi
-391412,3914,Sondrio
-392,39,Nord-est
-3920,392,Trentino-Alto Adige
-3921,3920,Trentino
-3922,3920,Alto Adige
-3923,392,Veneto
-392301,3923,Venezia
-392302,3923,Padova
-392303,3923,Verona
-392304,3923,Treviso
-392305,3923,Vicenza
-392306,3923,Rovigo
-392307,3923,Belluno
-3924,392,Friuli Venezia Giulia
-392401,3924,Udine
-392402,3924,Pordenone
-392403,3924,Trieste
-392404,3924,Gorizia
-3925,392,Emilia-Romagna
-392501,3925,Bologna
-392502,3925,Modena
-392503,3925,Reggio Emilia
-392504,3925,Parma
-392505,3925,Forlì-Cesena
-392506,3925,Ravenna
-392507,3925,Ferrara
-392508,3925,Rimini
-392509,3925,Piacenza
-393,39,Centro
-3931,393,Toscana
-393101,3931,Firenze
-393102,3931,Pisa
-393103,3931,Lucca
-393104,3931,Arezzo
-393105,3931,Livorno
-393106,3931,Pistoia
-393107,3931,Siena
-393108,3931,Prato
-393109,3931,Grosseto
-393110,3931,Massa-Carrara
-3932,393,Umbria
-393201,3932,Perugia
-393202,3932,Terni
-3933,393,Marche
-393301,3932,Ancona
-393302,3932,Pesaro e Urbino
-393303,3932,Macerata
-393304,3932,Ascoli Piceno
-393305,3932,Fermo
-3934,393,Lazio
-393401,3934,Roma
-393402,3934,Latina
-393403,3934,Frosinone
-393404,3934,Viterbo
-393405,3934,Rieti
-394,39,Sud
-3941,394,Abruzzo
-394101,3941,L'Aquila
-394102,3941,Chieti
-394103,3941,Pescara
-394104,3941,Teramo
-3942,394,Molise
-394201,3942,Campobasso
-394202,3942,Isernia
-3943,394,Campania
-394301,3943,Napoli
-394302,3943,Salerno
-394303,3943,Caserta
-394304,3943,Avellino
-394305,3943,Benevento
-3944,394,Puglia
-394401,3944,Bari
-394402,3944,Lecce
-394403,3944,Foggia
-394404,3944,Taranto
-394405,3944,Brindisi
-394406,3944,Barletta-Andria-Trani
-3945,394,Basilicata
-394501,3945,Potenza
-394502,3945,Matera
-3946,394,Calabria
-394601,3946,Catanzaro
-394602,3946,Cosenza
-394603,3946,Reggio Calabria
-394604,3946,Crotone
-394605,3946,Vibo Valentia
-395,39,Isole
-3951,395,Sicilia
-395101,3951,Palermo
-395102,3951,Catania
-395103,3951,Messina
-395104,3951,Agrigento
-395105,3951,Trapani
-395106,3951,Siracusa
-395107,3951,Ragusa
-395108,3951,Caltanissetta
-395109,3951,Enna
-3952,395,Sardegna
-395201,3952,Cagliari
-395202,3952,Sassari
-395203,3952,Sud Sardegna
-395204,3952,Nuoro
-395205,3952,Oristano
-41,41,Switzerland
-4101,41,Zürich
-4102,41,Bern
-4103,41,Luzern
-4104,41,Uri
-4105,41,Schwyz
-4106,41,Obwalden
-4107,41,Nidwalden
-4108,41,Glarus
-4109,41,Zug
-4110,41,Fribourg
-4111,41,Solothurn
-4112,41,Basel-Stadt
-4113,41,Basel-Landschaft
-4114,41,Schaffhausen
-4115,41,Appenzell Ausserrhoden
-4116,41,Appenzell Innerrhoden
-4117,41,St Gallen
-4118,41,Graubünden
-4119,41,Aargau
-4120,41,Thurgau
-4121,41,Ticino
-4122,41,Vaud
-4123,41,Valais
-4124,41,Neuchâtel
-4125,41,Genève
-4126,41,Jura (CH)
-423,423,Liechtenstein
-43,43,Austria
-4301,43,Wien
-4302,43,Niederösterreich
-4303,43,Oberösterreich
-4304,43,Steiermark
-4305,43,Tirol
-4306,43,Kärnten
-4307,43,Salzburg
-4308,43,Vorarlberg
-4309,43,Burgenland
+areaCode,areaCodeParent,areaName,countryIso2
+10,10,United States,us
+101,10,Northeast,us
+1011,101,New England,us
+10111,1011,Massachusetts,us
+10112,1011,Connecticut,us
+10113,1011,New Hampshire,us
+10114,1011,Maine,us
+10115,1011,Rhode Island,us
+10116,1011,Vermont,us
+1012,101,Middle Atlantic,us
+10121,1012,New York,us
+10122,1012,Pennsylvania,us
+10123,1012,New Jersey,us
+102,10,South,us
+1021,102,South Atlantic,us
+10211,1021,Florida,us
+10212,1021,Georgia,us
+10213,1021,North Carolina,us
+10214,1021,Virginia,us
+10215,1021,Maryland,us
+10216,1021,South Carolina,us
+10217,1021,West Virginia,us
+10218,1021,Delaware,us
+10219,1021,District of Columbia,us
+1022,102,East South Central,us
+10221,1022,Tennessee,us
+10222,1022,Alabama,us
+10223,1022,Kentucky,us
+10224,1022,Mississippi,us
+1023,102,West South Central,us
+10231,1023,Texas,us
+10232,1023,Louisiana,us
+10233,1023,Oklahoma,us
+10234,1023,Arkansas,us
+103,10,Midwest,us
+1031,103,East North Central,us
+10311,1031,Illinois,us
+10312,1031,Ohio,us
+10313,1031,Michigan,us
+10314,1031,Indiana,us
+10315,1031,Wisconsin,us
+1032,103,West North Central,us
+10321,1032,Missouri,us
+10322,1032,Minnesota,us
+10323,1032,Iowa,us
+10324,1032,Kansas,us
+10325,1032,Nebraska,us
+10326,1032,South Dakota,us
+10327,1032,North Dakota,us
+104,10,West,us
+1041,104,Mountain,us
+10411,1041,Arizona,us
+10412,1041,Colorado,us
+10413,1041,Utah,us
+10414,1041,Nevada,us
+10415,1041,New Mexico,us
+10416,1041,Idaho,us
+10417,1041,Montana,us
+10418,1041,Wyoming,us
+1042,104,Pacific,us
+10421,1042,California,us
+10422,1042,Washington,us
+10423,1042,Oregon,us
+10424,1042,Hawaii,us
+10425,1042,Alaska,us
+33,33,France,fr
+330,33,France métropolitaine,fr
+3301,330,Île-de-France,fr
+330101,3301,Paris,fr
+330102,3301,Seine-et-Marne,fr
+330103,3301,Yvelines,fr
+330104,3301,Essonne,fr
+330105,3301,Hauts-de-Seine,fr
+330106,3301,Seine-Saint-Denis,fr
+330107,3301,Val-de-Marne,fr
+330108,3301,Val-d'Oise,fr
+3302,330,Centre-Val de Loire,fr
+330201,3302,Cher,fr
+330202,3302,Eure-et-Loir,fr
+330203,3302,Indre,fr
+330204,3302,Indre-et-Loire,fr
+330205,3302,Loir-et-Cher,fr
+330206,3302,Loiret,fr
+3303,330,Bourgogne-Franche-Comté,fr
+330301,3303,Côte-d'Or,fr
+330302,3303,Doubs,fr
+330303,3303,Jura (FR),fr
+330304,3303,Nièvre,fr
+330305,3303,Haute-Saône,fr
+330306,3303,Saône-et-Loire,fr
+330307,3303,Yonne,fr
+330308,3303,Territoire de Belfort,fr
+3304,330,Normandie,fr
+330401,3304,Calvados,fr
+330402,3304,Eure,fr
+330403,3304,Manche,fr
+330404,3304,Orne,fr
+330405,3304,Seine-Maritime,fr
+3305,330,Hauts-de-France,fr
+330501,3305,Aisne,fr
+330502,3305,Nord,fr
+330503,3305,Oise,fr
+330504,3305,Pas-de-Calais,fr
+330505,3305,Somme,fr
+3306,330,Grand Est,fr
+330601,3306,Ardennes,fr
+330602,3306,Aube,fr
+330603,3306,Marne,fr
+330604,3306,Haute-Marne,fr
+330605,3306,Meurthe-et-Moselle,fr
+330606,3306,Meuse,fr
+330607,3306,Moselle,fr
+330608,3306,Bas-Rhin,fr
+330609,3306,Haut-Rhin,fr
+330610,3306,Vosges,fr
+3307,330,Pays de la Loire,fr
+330701,3307,Loire-Atlantique,fr
+330702,3307,Maine-et-Loire,fr
+330703,3307,Mayenne,fr
+330704,3307,Sarthe,fr
+3308,330,Bretagne,fr
+330801,3308,Côtes-d'Armor,fr
+330802,3308,Finistère,fr
+330803,3308,Ille-et-Vilaine,fr
+330804,3308,Morbihan,fr
+3309,330,Nouvelle-Aquitaine,fr
+330901,3309,Charente,fr
+330902,3309,Charente-Maritime,fr
+330903,3309,Corrèze,fr
+330904,3309,Creuse,fr
+330905,3309,Dordogne,fr
+330906,3309,Gironde,fr
+330907,3309,Landes,fr
+330908,3309,Lot-et-Garonne,fr
+330909,3309,Pyrénées-Atlantiques,fr
+330910,3309,Deux-Sèvres,fr
+330911,3309,Vienne,fr
+330912,3309,Haute-Vienne,fr
+3310,330,Occitanie,fr
+331001,3310,Ariège,fr
+331002,3310,Aude,fr
+331003,3310,Aveyron,fr
+331004,3310,Gard,fr
+331005,3310,Haute-Garonne,fr
+331006,3310,Gers,fr
+331007,3310,Hérault,fr
+331008,3310,Lot,fr
+331009,3310,Lozère,fr
+331010,3310,Hautes-Pyrénées,fr
+331011,3310,Pyrénées-Orientales,fr
+331012,3310,Tarn,fr
+331013,3310,Tarn-et-Garonne,fr
+3311,330,Auvergne-Rhône-Alpes,fr
+331101,3311,Ain,fr
+331102,3311,Allier,fr
+331103,3311,Ardèche,fr
+331104,3311,Cantal,fr
+331105,3311,Drôme,fr
+331106,3311,Isère,fr
+331107,3311,Loire,fr
+331108,3311,Haute-Loire,fr
+331109,3311,Puy-de-Dôme,fr
+331110,3311,Rhône,fr
+3311101,331110,Métropole de Lyon,fr
+3311102,331110,Rhône (département),fr
+331111,3311,Savoie,fr
+331112,3311,Haute-Savoie,fr
+3312,330,Provence-Alpes-Côte d'Azur,fr
+331201,3312,Vendée,fr
+331202,3312,Alpes-de-Haute-Provence,fr
+331203,3312,Hautes-Alpes,fr
+331204,3312,Alpes-Maritimes,fr
+331205,3312,Bouches-du-Rhône,fr
+331206,3312,Var,fr
+331207,3312,Vaucluse,fr
+3313,330,Corse,fr
+331301,3313,Corse-du-Sud,fr
+331302,3313,Haute-Corse,fr
+332,33,DROM,fr
+3321,332,Guadeloupe,fr
+3322,332,Martinique,fr
+3323,332,Guyane,fr
+3324,332,Réunion,fr
+3325,332,Mayotte,fr
+378,378,San Marino,sm
+386,386,Slovenia,si
+38601,386,Vzhodna Slovenija,si
+386011,38601,Pomurska,si
+386012,38601,Podravska,si
+386013,38601,Koroška,si
+386014,38601,Savinjska,si
+386015,38601,Zasavska,si
+386016,38601,Posavska,si
+386017,38601,Jugovzhodna Slovenija,si
+386018,38601,Primorsko-notranjska,si
+38602,386,Zahodna Slovenija,si
+386021,38602,Osrednjeslovenska,si
+386022,38602,Gorenjska,si
+386023,38602,Goriška,si
+386024,38602,Obalno-kraška,si
+39,39,Italy,it
+391,39,Nord-ovest,it
+3911,391,Piemonte,it
+391101,3911,Torino,it
+391102,3911,Cuneo,it
+391103,3911,Alessandria,it
+391104,3911,Novara,it
+391105,3911,Asti,it
+391106,3911,Biella,it
+391107,3911,Vercelli,it
+391108,3911,Verbano-Cusio-Ossola,it
+3912,391,Valle d'Aosta,it
+3913,391,Liguria,it
+391301,3913,Genova,it
+391302,3913,Savona,it
+391303,3913,La Spezia,it
+391304,3913,Imperia,it
+3914,391,Lombardia,it
+391401,3914,Milano,it
+391402,3914,Brescia,it
+391403,3914,Bergamo,it
+391404,3914,Varese,it
+391405,3914,Monza e Brianza,it
+391406,3914,Como,it
+391407,3914,Pavia,it
+391408,3914,Mantova,it
+391409,3914,Cremona,it
+391410,3914,Lecco,it
+391411,3914,Lodi,it
+391412,3914,Sondrio,it
+392,39,Nord-est,it
+3920,392,Trentino-Alto Adige,it
+3921,3920,Trentino,it
+3922,3920,Alto Adige,it
+3923,392,Veneto,it
+392301,3923,Venezia,it
+392302,3923,Padova,it
+392303,3923,Verona,it
+392304,3923,Treviso,it
+392305,3923,Vicenza,it
+392306,3923,Rovigo,it
+392307,3923,Belluno,it
+3924,392,Friuli Venezia Giulia,it
+392401,3924,Udine,it
+392402,3924,Pordenone,it
+392403,3924,Trieste,it
+392404,3924,Gorizia,it
+3925,392,Emilia-Romagna,it
+392501,3925,Bologna,it
+392502,3925,Modena,it
+392503,3925,Reggio Emilia,it
+392504,3925,Parma,it
+392505,3925,Forlì-Cesena,it
+392506,3925,Ravenna,it
+392507,3925,Ferrara,it
+392508,3925,Rimini,it
+392509,3925,Piacenza,it
+393,39,Centro,it
+3931,393,Toscana,it
+393101,3931,Firenze,it
+393102,3931,Pisa,it
+393103,3931,Lucca,it
+393104,3931,Arezzo,it
+393105,3931,Livorno,it
+393106,3931,Pistoia,it
+393107,3931,Siena,it
+393108,3931,Prato,it
+393109,3931,Grosseto,it
+393110,3931,Massa-Carrara,it
+3932,393,Umbria,it
+393201,3932,Perugia,it
+393202,3932,Terni,it
+3933,393,Marche,it
+393301,3932,Ancona,it
+393302,3932,Pesaro e Urbino,it
+393303,3932,Macerata,it
+393304,3932,Ascoli Piceno,it
+393305,3932,Fermo,it
+3934,393,Lazio,it
+393401,3934,Roma,it
+393402,3934,Latina,it
+393403,3934,Frosinone,it
+393404,3934,Viterbo,it
+393405,3934,Rieti,it
+394,39,Sud,it
+3941,394,Abruzzo,it
+394101,3941,L'Aquila,it
+394102,3941,Chieti,it
+394103,3941,Pescara,it
+394104,3941,Teramo,it
+3942,394,Molise,it
+394201,3942,Campobasso,it
+394202,3942,Isernia,it
+3943,394,Campania,it
+394301,3943,Napoli,it
+394302,3943,Salerno,it
+394303,3943,Caserta,it
+394304,3943,Avellino,it
+394305,3943,Benevento,it
+3944,394,Puglia,it
+394401,3944,Bari,it
+394402,3944,Lecce,it
+394403,3944,Foggia,it
+394404,3944,Taranto,it
+394405,3944,Brindisi,it
+394406,3944,Barletta-Andria-Trani,it
+3945,394,Basilicata,it
+394501,3945,Potenza,it
+394502,3945,Matera,it
+3946,394,Calabria,it
+394601,3946,Catanzaro,it
+394602,3946,Cosenza,it
+394603,3946,Reggio Calabria,it
+394604,3946,Crotone,it
+394605,3946,Vibo Valentia,it
+395,39,Isole,it
+3951,395,Sicilia,it
+395101,3951,Palermo,it
+395102,3951,Catania,it
+395103,3951,Messina,it
+395104,3951,Agrigento,it
+395105,3951,Trapani,it
+395106,3951,Siracusa,it
+395107,3951,Ragusa,it
+395108,3951,Caltanissetta,it
+395109,3951,Enna,it
+3952,395,Sardegna,it
+395201,3952,Cagliari,it
+395202,3952,Sassari,it
+395203,3952,Sud Sardegna,it
+395204,3952,Nuoro,it
+395205,3952,Oristano,it
+41,41,Switzerland,ch
+4101,41,Zürich,ch
+4102,41,Bern,ch
+4103,41,Luzern,ch
+4104,41,Uri,ch
+4105,41,Schwyz,ch
+4106,41,Obwalden,ch
+4107,41,Nidwalden,ch
+4108,41,Glarus,ch
+4109,41,Zug,ch
+4110,41,Fribourg,ch
+4111,41,Solothurn,ch
+4112,41,Basel-Stadt,ch
+4113,41,Basel-Landschaft,ch
+4114,41,Schaffhausen,ch
+4115,41,Appenzell Ausserrhoden,ch
+4116,41,Appenzell Innerrhoden,ch
+4117,41,St Gallen,ch
+4118,41,Graubünden,ch
+4119,41,Aargau,ch
+4120,41,Thurgau,ch
+4121,41,Ticino,ch
+4122,41,Vaud,ch
+4123,41,Valais,ch
+4124,41,Neuchâtel,ch
+4125,41,Genève,ch
+4126,41,Jura (CH),ch
+423,423,Liechtenstein,li
+43,43,Austria,at
+4301,43,Wien,at
+4302,43,Niederösterreich,at
+4303,43,Oberösterreich,at
+4304,43,Steiermark,at
+4305,43,Tirol,at
+4306,43,Kärnten,at
+4307,43,Salzburg,at
+4308,43,Vorarlberg,at
+4309,43,Burgenland,at

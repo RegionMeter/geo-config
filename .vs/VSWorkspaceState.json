@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
+    "\\map",
     "\\src"
   ],
-  "SelectedNode": "\\src\\_areaList.csv",
+  "SelectedNode": "\\map\\istat.csv",
   "PreviewInSolutionExplorer": false
 }
