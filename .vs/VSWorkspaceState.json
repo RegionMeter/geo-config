@@ -1,8 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\src"
+    "\\src",
+    "\\tmp"
   ],
-  "SelectedNode": "\\src\\_areaList.csv",
   "PreviewInSolutionExplorer": false
 }
