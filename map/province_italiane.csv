@@ -1,4 +1,4 @@
-areaCode,areaName,targetCode
+﻿areaCode,areaName,targetCode
 391101,Torino,TO
 391102,Cuneo,CN
 391103,Alessandria,AL
@@ -7,6 +7,7 @@ areaCode,areaName,targetCode
 391106,Biella,BI
 391107,Vercelli,VC
 391108,Verbano-Cusio-Ossola,VB
+3912,Valle d'Aosta,AO
 391301,Genova,GE
 391302,Savona,SV
 391303,La Spezia,SP

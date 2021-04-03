@@ -1,8 +1,8 @@
 ﻿areaCode,areaName,areaDefinition
 39,Italia,Italia
-391,Nord-ovest,Nord-ovest (Una delle cinque circoscrizioni elettorali per il Parlamento Europeo)
-3911,Piemonte,Piemonte (Regione italiana a statuto ordinario)
-391101,Torino,Provincia di Torino
+391,Nord-ovest,Circoscrizione Italia nord-occidentale
+3911,Piemonte,Regione Piemonte
+391101,Torino,Città Metropolitana di Torino
 391102,Cuneo,Provincia di Cuneo
 391103,Alessandria,Provincia di Alessandria
 391104,Novara,Provincia di Novara
@@ -10,14 +10,14 @@
 391106,Biella,Provincia di Biella
 391107,Vercelli,Provincia di Vercelli
 391108,Verbano-Cusio-Ossola,Provincia di Verbano-Cusio-Ossola
-3912,Valle d'Aosta,Valle d'Aosta (Regione italiana a statuto speciale)
-3913,Liguria,Liguria (Regione italiana a statuto ordinario)
-391301,Genova,Provincia di Genova
+3912,Valle d'Aosta,Regione Autonoma Valle d'Aosta
+3913,Liguria,Regione Liguria
+391301,Genova,Città Metropolitana di Genova
 391302,Savona,Provincia di Savona
 391303,La Spezia,Provincia di La Spezia
 391304,Imperia,Provincia di Imperia
-3914,Lombardia,Lombardia (Regione italiana a statuto ordinario)
-391401,Milano,Provincia di Milano
+3914,Lombardia,Regione Lombardia
+391401,Milano,Città Metropolitana di Milano
 391402,Brescia,Provincia di Brescia
 391403,Bergamo,Provincia di Bergamo
 391404,Varese,Provincia di Varese
@@ -29,25 +29,25 @@
 391410,Lecco,Provincia di Lecco
 391411,Lodi,Provincia di Lodi
 391412,Sondrio,Provincia di Sondrio
-392,Nord-est,Nord-est (Una delle cinque circoscrizioni elettorali per il Parlamento Europeo)
-3920,Trentino-Alto Adige,Trentino-Alto Adige (Regione italiana a statuto speciale)
+392,Nord-est,Circoscrizione Italia nord-orientale
+3920,Trentino-Alto Adige,Regione Autonoma Trentino-Alto Adige
 3921,Trentino,Provincia Autonoma di Trento
 3922,Alto Adige,Provincia Autonoma di Bolzano
-3923,Veneto,Veneto (Regione italiana a statuto ordinario)
-392301,Venezia,Provincia di Venezia
+3923,Veneto,Regione Veneto
+392301,Venezia,Città Metropolitana di Venezia
 392302,Padova,Provincia di Padova
 392303,Verona,Provincia di Verona
 392304,Treviso,Provincia di Treviso
 392305,Vicenza,Provincia di Vicenza
 392306,Rovigo,Provincia di Rovigo
 392307,Belluno,Provincia di Belluno
-3924,Friuli Venezia Giulia,Friuli Venezia Giulia (Regione italiana a statuto speciale)
+3924,Friuli Venezia Giulia,Regione Autonoma Friuli Venezia Giulia
 392401,Udine,Provincia di Udine
 392402,Pordenone,Provincia di Pordenone
 392403,Trieste,Provincia di Trieste
 392404,Gorizia,Provincia di Gorizia
-3925,Emilia-Romagna,Emilia-Romagna (Regione italiana a statuto ordinario)
-392501,Bologna,Provincia di Bologna
+3925,Emilia-Romagna,Regione Emilia-Romagna
+392501,Bologna,Città Metropolitana di Bologna
 392502,Modena,Provincia di Modena
 392503,Reggio Emilia,Provincia di Reggio Emilia
 392504,Parma,Provincia di Parma
@@ -56,9 +56,9 @@
 392507,Ferrara,Provincia di Ferrara
 392508,Rimini,Provincia di Rimini
 392509,Piacenza,Provincia di Piacenza
-393,Centro,Centro (Una delle cinque circoscrizioni elettorali per il Parlamento Europeo)
-3931,Toscana,Toscana (Regione italiana a statuto ordinario)
-393101,Firenze,Provincia di Firenze
+393,Italia centrale,Circoscrizione Italia centrale
+3931,Toscana,Regione Toscana
+393101,Firenze,Città Metropolitana di Firenze
 393102,Pisa,Provincia di Pisa
 393103,Lucca,Provincia di Lucca
 393104,Arezzo,Provincia di Arezzo
@@ -68,65 +68,65 @@
 393108,Prato,Provincia di Prato
 393109,Grosseto,Provincia di Grosseto
 393110,Massa-Carrara,Provincia di Massa-Carrara
-3932,Umbria,Umbria (Regione italiana a statuto ordinario)
+3932,Umbria,Regione Umbria
 393201,Perugia,Provincia di Perugia
 393202,Terni,Provincia di Terni
-3933,Marche,Marche (Regione italiana a statuto ordinario)
+3933,Marche,Regione Marche
 393301,Ancona,Provincia di Ancona
 393302,Pesaro e Urbino,Provincia di Pesaro e Urbino
 393303,Macerata,Provincia di Macerata
 393304,Ascoli Piceno,Provincia di Ascoli Piceno
 393305,Fermo,Provincia di Fermo
-3934,Lazio,Lazio (Regione italiana a statuto ordinario)
-393401,Roma,Provincia di Roma
+3934,Lazio,Regione Lazio
+393401,Roma,Città Metropolitana di Roma Capitale
 393402,Latina,Provincia di Latina
 393403,Frosinone,Provincia di Frosinone
 393404,Viterbo,Provincia di Viterbo
 393405,Rieti,Provincia di Rieti
-394,Sud,Sud (Una delle cinque circoscrizioni elettorali per il Parlamento Europeo)
-3941,Abruzzo,Abruzzo (Regione italiana a statuto ordinario)
+394,Italia meridionale,Circoscrizione Italia meridionale
+3941,Abruzzo,Regione Abruzzo
 394101,L'Aquila,Provincia di L'Aquila
 394102,Chieti,Provincia di Chieti
 394103,Pescara,Provincia di Pescara
 394104,Teramo,Provincia di Teramo
-3942,Molise,Molise (Regione italiana a statuto ordinario)
+3942,Molise,Regione Molise
 394201,Campobasso,Provincia di Campobasso
 394202,Isernia,Provincia di Isernia
-3943,Campania,Campania (Regione italiana a statuto ordinario)
-394301,Napoli,Provincia di Napoli
+3943,Campania,Regione Campania
+394301,Napoli,Città Metropolitana di Napoli
 394302,Salerno,Provincia di Salerno
 394303,Caserta,Provincia di Caserta
 394304,Avellino,Provincia di Avellino
 394305,Benevento,Provincia di Benevento
-3944,Puglia,Puglia (Regione italiana a statuto ordinario)
-394401,Bari,Provincia di Bari
+3944,Puglia,Regione Puglia
+394401,Bari,Città Metropolitana di Bari
 394402,Lecce,Provincia di Lecce
 394403,Foggia,Provincia di Foggia
 394404,Taranto,Provincia di Taranto
 394405,Brindisi,Provincia di Brindisi
 394406,Barletta-Andria-Trani,Provincia di Barletta-Andria-Trani
-3945,Basilicata,Basilicata (Regione italiana a statuto ordinario)
+3945,Basilicata,Regione Basilicata
 394501,Potenza,Provincia di Potenza
 394502,Matera,Provincia di Matera
-3946,Calabria,Calabria (Regione italiana a statuto ordinario)
+3946,Calabria,Regione Calabria
 394601,Catanzaro,Provincia di Catanzaro
 394602,Cosenza,Provincia di Cosenza
-394603,Reggio Calabria,Provincia di Reggio Calabria
+394603,Reggio Calabria,Città Metropolitana di Reggio Calabria
 394604,Crotone,Provincia di Crotone
 394605,Vibo Valentia,Provincia di Vibo Valentia
-395,Isole,Isole (Una delle cinque circoscrizioni elettorali per il Parlamento Europeo)
-3951,Sicilia,Sicilia (Regione italiana a statuto speciale)
-395101,Palermo,Provincia di Palermo
-395102,Catania,Provincia di Catania
-395103,Messina,Provincia di Messina
+395,Italia insulare,Circoscrizione Italia insulare
+3951,Sicilia,Regione Siciliana
+395101,Palermo,Città Metropolitana di Palermo
+395102,Catania,Città Metropolitana di Catania
+395103,Messina,Città Metropolitana di Messina
 395104,Agrigento,Provincia di Agrigento
 395105,Trapani,Provincia di Trapani
 395106,Siracusa,Provincia di Siracusa
 395107,Ragusa,Provincia di Ragusa
 395108,Caltanissetta,Provincia di Caltanissetta
 395109,Enna,Provincia di Enna
-3952,Sardegna,Sardegna (Regione italiana a statuto speciale)
-395201,Cagliari,Provincia di Cagliari
+3952,Sardegna,Regione Autonoma della Sardegna
+395201,Cagliari,Città Metropolitana di Cagliari
 395202,Sassari,Provincia di Sassari
 395203,Sud Sardegna,Provincia del Sud Sardegna
 395204,Nuoro,Provincia di Nuoro

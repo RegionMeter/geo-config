@@ -256,7 +256,7 @@
 392507,3925,Ferrara,it
 392508,3925,Rimini,it
 392509,3925,Piacenza,it
-393,39,Centro,it
+393,39,Italia centrale,it
 3931,393,Toscana,it
 393101,3931,Firenze,it
 393102,3931,Pisa,it
@@ -283,7 +283,7 @@
 393403,3934,Frosinone,it
 393404,3934,Viterbo,it
 393405,3934,Rieti,it
-394,39,Sud,it
+394,39,Italia meridionale,it
 3941,394,Abruzzo,it
 394101,3941,L'Aquila,it
 394102,3941,Chieti,it
@@ -314,7 +314,7 @@
 394603,3946,Reggio Calabria,it
 394604,3946,Crotone,it
 394605,3946,Vibo Valentia,it
-395,39,Isole,it
+395,39,Italia insulare,it
 3951,395,Sicilia,it
 395101,3951,Palermo,it
 395102,3951,Catania,it
