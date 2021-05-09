@@ -1,4 +1,4 @@
-areaCode,countryIso2,countryName
+﻿areaCode,countryIso2,countryName
 10,us,United States
 10501,pr,Puerto Rico
 10502,gu,Guam
@@ -89,6 +89,12 @@ areaCode,countryIso2,countryName
 3323,gf,French Guiana
 3324,re,Réunion
 3325,yt,Mayotte
+3326,wf,Wallis and Futuna
+3327,pf,French Polynesia
+3328,nc,New Caledonia
+3329,pm,Saint Pierre and Miquelon
+3330,bl,Saint Barthélemy
+3331,mf,Saint Martin
 34,es,Spain
 350,gi,Gibraltar
 351,pt,Portugal
@@ -140,7 +146,6 @@ areaCode,countryIso2,countryName
 505,ni,Nicaragua
 506,cr,Costa Rica
 507,pa,Panama
-508,pm,Saint Pierre and Miquelon
 509,ht,Haiti
 51,pe,Peru
 52,mx,Mexico
@@ -176,14 +181,11 @@ areaCode,countryIso2,countryName
 678,vu,Vanuatu
 679,fj,Fiji
 680,pw,Palau
-681,wf,Wallis and Futuna
 682,ck,Cook Islands
 683,nu,Niue
 685,ws,Samoa
 686,ki,Kiribati
-687,nc,New Caledonia
 688,tv,Tuvalu
-689,pf,French Polynesia
 690,tk,Tokelau
 692,mh,Marshall Islands
 70,ru,Russia
