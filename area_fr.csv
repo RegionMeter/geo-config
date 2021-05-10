@@ -1,6 +1,7 @@
 ﻿areaCode,areaName,areaDefinition
 33,France,République française
 330,France métropolitaine,Territoire européen de la France
+3300,France entière,Territoire de la République française
 3301,Île-de-France,Région Île-de-France
 330101,Paris,Ville de Paris
 330102,Seine-et-Marne,Seine-et-Marne - Département de la métropole du Grand Paris
@@ -118,9 +119,10 @@
 3323,Guyane,Collectivité territoriale de Guyane 
 3324,Réunion,La Réunion 
 3325,Mayotte,Département de Mayotte
-3326,Wallis-et-Futuna,Territoire des îles Wallis-et-Futuna
-3327,Polynésie française,Collectivité d'outre-mer de la Polynésie française
-3328,Nouvelle-Calédonie,Collectivité d'outre-mer de Nouvelle-Calédonie
-3329,Saint-Pierre-et-Miquelon,Collectivité d'outre-mer de Saint-Pierre-et-Miquelon
-3330,Saint-Barthélemy,Collectivité de Saint-Barthélemy
-3331,Saint-Martin,Collectivité de Saint-Martin
+333,COM,Collectivités d'outre-mer
+3331,Saint-Pierre-et-Miquelon,Collectivité d'outre-mer de Saint-Pierre-et-Miquelon
+3332,Saint-Barthélemy,Collectivité de Saint-Barthélemy
+3333,Saint-Martin,Collectivité de Saint-Martin
+3334,Wallis-et-Futuna,Territoire des îles Wallis-et-Futuna
+3335,Polynésie française,Collectivité d'outre-mer de la Polynésie française
+3336,Nouvelle-Calédonie,Collectivité d'outre-mer de Nouvelle-Calédonie
