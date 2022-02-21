@@ -55,6 +55,7 @@
 330702,3307,Maine-et-Loire
 330703,3307,Mayenne
 330704,3307,Sarthe
+330705,3307,Vendée
 3308,330,Bretagne
 330801,3308,Côtes-d'Armor
 330802,3308,Finistère
@@ -103,13 +104,12 @@
 331111,3311,Savoie
 331112,3311,Haute-Savoie
 3312,330,Provence-Alpes-Côte d'Azur
-331201,3312,Vendée
-331202,3312,Alpes-de-Haute-Provence
-331203,3312,Hautes-Alpes
-331204,3312,Alpes-Maritimes
-331205,3312,Bouches-du-Rhône
-331206,3312,Var
-331207,3312,Vaucluse
+331201,3312,Alpes-de-Haute-Provence
+331202,3312,Hautes-Alpes
+331203,3312,Alpes-Maritimes
+331204,3312,Bouches-du-Rhône
+331205,3312,Var
+331206,3312,Vaucluse
 3313,330,Corse
 331301,3313,Corse-du-Sud
 331302,3313,Haute-Corse

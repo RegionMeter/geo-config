@@ -120,6 +120,7 @@
 330702,3307,Maine-et-Loire,fr
 330703,3307,Mayenne,fr
 330704,3307,Sarthe,fr
+330705,3307,Vendée,fr
 3308,330,Bretagne,fr
 330801,3308,Côtes-d'Armor,fr
 330802,3308,Finistère,fr
@@ -168,13 +169,12 @@
 331111,3311,Savoie,fr
 331112,3311,Haute-Savoie,fr
 3312,330,Provence-Alpes-Côte d'Azur,fr
-331201,3312,Vendée,fr
-331202,3312,Alpes-de-Haute-Provence,fr
-331203,3312,Hautes-Alpes,fr
-331204,3312,Alpes-Maritimes,fr
-331205,3312,Bouches-du-Rhône,fr
-331206,3312,Var,fr
-331207,3312,Vaucluse,fr
+331201,3312,Alpes-de-Haute-Provence,fr
+331202,3312,Hautes-Alpes,fr
+331203,3312,Alpes-Maritimes,fr
+331204,3312,Bouches-du-Rhône,fr
+331205,3312,Var,fr
+331206,3312,Vaucluse,fr
 3313,330,Corse,fr
 331301,3313,Corse-du-Sud,fr
 331302,3313,Haute-Corse,fr
@@ -280,11 +280,11 @@
 393201,3932,Perugia,it
 393202,3932,Terni,it
 3933,393,Marche,it
-393301,3932,Ancona,it
-393302,3932,Pesaro e Urbino,it
-393303,3932,Macerata,it
-393304,3932,Ascoli Piceno,it
-393305,3932,Fermo,it
+393301,3933,Ancona,it
+393302,3933,Pesaro e Urbino,it
+393303,3933,Macerata,it
+393304,3933,Ascoli Piceno,it
+393305,3933,Fermo,it
 3934,393,Lazio,it
 393401,3934,Roma,it
 393402,3934,Latina,it

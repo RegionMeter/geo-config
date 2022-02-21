@@ -55,6 +55,7 @@
 330702,Maine-et-Loire,Département du Maine-et-Loire
 330703,Mayenne,Département de Mayenne
 330704,Sarthe,Département de la Sarthe
+330705,Vendée,Département de la Vendée
 3308,Bretagne,Région Bretagne
 330801,Côtes-d'Armor,Département des Côtes-d'Armor
 330802,Finistère,Département du Finistère
@@ -103,13 +104,12 @@
 331111,Savoie,Département de Savoie
 331112,Haute-Savoie,Département de la Haute-Savoie
 3312,Provence-Alpes-Côte d'Azur,Région Provence-Alpes-Côte d'Azur
-331201,Vendée,Département de la Vendée
-331202,Alpes-de-Haute-Provence,Département des Alpes-de-Haute-Provence
-331203,Hautes-Alpes,Département des Hautes-Alpes
-331204,Alpes-Maritimes,Département des Alpes-Maritimes
-331205,Bouches-du-Rhône,Département des Bouches-du-Rhône
-331206,Var,Département du Var
-331207,Vaucluse,Département du Vaucluse
+331201,Alpes-de-Haute-Provence,Département des Alpes-de-Haute-Provence
+331202,Hautes-Alpes,Département des Hautes-Alpes
+331203,Alpes-Maritimes,Département des Alpes-Maritimes
+331204,Bouches-du-Rhône,Département des Bouches-du-Rhône
+331205,Var,Département du Var
+331206,Vaucluse,Département du Vaucluse
 3313,Corse,Région Corse
 331301,Corse-du-Sud,Département de la Corse du Sud
 331302,Haute-Corse,Département de Haute-Corse
