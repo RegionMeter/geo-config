@@ -1,0 +1,4 @@
+﻿columnName,dataType,minLengthBytes,maxLengthBytes,isUnique
+areaCode,intHier,4,4,1
+countryIso2,text,2,2,1
+countryName,text,1,80,1
