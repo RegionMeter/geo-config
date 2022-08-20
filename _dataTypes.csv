@@ -1,0 +1,6 @@
+﻿dataType,baseType,description
+uint, integer,32bit unsigned integer. Admitted range values between 0 and 2147 millions (2.147.483.647 i.e 2^31-1)
+intHier, uint, Integer value. When casted and ordered as string it shows a list in a hierarchical order
+dateint, uint, Integer value. When casted as string it represents a 'yyyymmdd' date formatted value
+string, string, UTF-8 char array
+lowerAscii, string, UTF-8 char array. Not admitted chars outside of this reg-ex rule: [a-z_]
